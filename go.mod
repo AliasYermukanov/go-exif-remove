@@ -1,6 +1,6 @@
-module github.com/scottleedavis/go-exif-remove
+module github.com/AliasYermukanov/go-exif-remove
 
-go 1.12
+go 1.16
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
